@@ -29,5 +29,5 @@ Family members are welcome to:
 - 🔄 Avoid duplicates when possible  
 
 ## 📜 License
-This repository is for **family use only**.  
-Photos are not to be redistributed outside of our family circle 🚫.
+This repository is for **public view**, and can be viewed by anyone.
+
